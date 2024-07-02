@@ -44,7 +44,7 @@ fn main() {
         din.time.truncate(index);
     }
     println!(
-        "{:?}\n251 North: {}\nSouth Campus: {}\nYahentamitsi: {}",
+        "{:?}\n251 North:    {}\nSouth Campus: {}\nYahentamitsi: {}",
         din.time,
         busy_status(&din.north),
         busy_status(&din.south),
