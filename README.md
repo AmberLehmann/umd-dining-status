@@ -1,4 +1,5 @@
 # umd-dining-status
+WARNING: This application is currently NOT functional. The .json file from UMD is currently non-existent. 
 
 _Get the status of each dining hall at UMD College Park_
 
